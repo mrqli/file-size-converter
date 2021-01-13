@@ -1,1 +1,1 @@
-# file-size-converter
+This file size converter makes calculation based on units of 1024 and returns a number within 1 ~ 1024 with proper measurement unit.
