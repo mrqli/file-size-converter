@@ -1,0 +1,16 @@
+{
+	"pluginName": "File Size Converter",
+	"version": "0.0.1",
+	"description": "Convert file size to more readable numbers (1 ~ 1024)",
+	"author": "mrqli",
+	"homepage": "",
+  	"preload": "preload.js",
+	"logo": "logo.png",
+	"features": [
+		{
+		  "code": "file_size_converter",
+		  "explain": "Convert File Size",
+			"cmds":["sz", "size"]
+		}
+	]
+}
